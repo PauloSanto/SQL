@@ -1,0 +1,5 @@
+# ignore os arquivos e pastas listados aqui no projeto final SQLite.
+
+*.txt
+
+*.odt
